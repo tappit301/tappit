@@ -2,6 +2,8 @@
 
 Student Name           CCID
 
-Yashit Bamba           yashit
+1. Yashit Bamba        yashit
 
-Siya Hindwan            hindwan
+2. Siya Hindwan        hindwan
+
+3. Vasu Aggarwal       aggarwa2 
