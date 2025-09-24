@@ -1,5 +1,6 @@
 # tappit
 
 Student Name           CCID
-Yashit Bamba            yashit
+Yashit Bamba           yashit
+
 Siya Hindwan            hindwan
